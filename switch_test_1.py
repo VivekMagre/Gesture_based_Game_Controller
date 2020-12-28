@@ -240,7 +240,7 @@ while cap.isOpened():
                 #pg.hotkey('esc')
                 mouseMode(final_mouse,left_defects)
                 current_mode = 1
-
+                pg.hotkey('esc')
             else:
                 gameMode(right_defects,left_defects,left_sw_angle,right_sw_angle)
                 current_mode = 0
