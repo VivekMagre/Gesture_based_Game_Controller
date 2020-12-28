@@ -5,19 +5,20 @@ By the Use of the opencv for image preoccesing and pyautogui for virtual keyboar
 There are 6 gesture used in game
 
 **When both hand closed the car will simply auto accelerate**
-![](Images/closed.png)
+
+![](Images/closed.PNG)
 
 when one hand is open and one hand is closed the car will go to that side 
 
 **if left hand open and right hand closed car will take Left**
 
-![](Images/open.png)
+![](Images/open.PNG)
 
 
 when you make the angle between the thumb and index finger greater than 80
 **Car will drift according to the hand - if left hand car will drift and go left & vice versa**
 
-![](Images/angle.png)
+![](Images/angle.PNG)
 
 when you do this with both hand you will enter the **Mouse mode**
 in mouse mode the index finger of the right hand will move the mouse and openning right hand will click at current mouse position
